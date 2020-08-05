@@ -39,7 +39,8 @@ $CHOCO_SOFTWARE = @(
     "musescore"
     "obs-studio"
     # internet and downloads
-    "filzilla"
+    "chromium"
+    "filezilla"
     "firefox"
     "protonvpn"
     "qbittorrent"
