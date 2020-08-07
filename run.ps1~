@@ -29,8 +29,6 @@ $CHOCO_SOFTWARE = @(
     "virtualbox"
     "vscodium"
     "zeal"
-    "vim"
-    "putty"
     # creative
     "bitwig"
     "blender"
